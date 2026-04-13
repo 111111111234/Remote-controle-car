@@ -7,7 +7,7 @@
 #define B_1A 26
 #define B_2A 25
 
-// PWM PINS (ВАЖЛИВО — ОКРЕМІ!)
+// PWM PINS
 #define ENA 32
 #define ENB 14
 
